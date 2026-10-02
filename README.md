@@ -1,6 +1,6 @@
 # Catálogo de productos
 
-**Alumno:** TU NOMBRE Y APELLIDO
+**Alumno:** Tomás Carle
 
 Proyecto de React (Vite) con React Router y Ant Design que muestra un catálogo de productos traído de una API pública.
 
